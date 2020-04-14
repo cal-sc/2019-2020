@@ -2,4 +2,5 @@
 CAL (Computer Applications Lab) Academic Year 2019-2020
 
 ### Contributers ###
-- David Geeraerts
+*name* *[code]*
+- David Geeraerts [DG]

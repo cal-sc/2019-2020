@@ -25,24 +25,31 @@
 5. ID 23:	Git install
 6. ID 21:	Git Clone Intro
 
+
 ### Github ###
 
 7. ID 20:	Github Intro
 8. ID 19:	GitHub Basics
 
+
 ### Git Clone ###
 9. ID 06:	GitHub Clone
 10. ID 07:	Create Employee Code folder
+	- Your individual work will go into your folder.
 
 
 ### Markdown ###
 11. ID 22:	MarkDown Tutorial
 12. ID 25:	ReadMe, Remote Repo
 13. ID 08:	MarkDown Do
+	- Consider writing your notes in markdown, i.e. notes.md
+	- put your notes.md in your folder
+
 
 ### YAML ###
 14. ID 05:	YAML Essentials Hands-On
 15. ID 09:	YAML Employee Code 
+
 
 ### Data Science, Fetch data ###
 16. ID 12:	DataCamp: Shell Tutorial: Downloading data using curl

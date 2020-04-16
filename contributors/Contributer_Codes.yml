@@ -1,6 +1,22 @@
+# YAML (YAML Ain't Markup Language)
 # CAL Contributer codes
 
+ # block style
+# spaces, no tabs
 
+# : key-value pair
+# - lists
 
+# Start of file
+---
+# Encoding
+- Encoding
+ - UTF-8
+ 
 name: David Geeraerts
-  - code: DG 
+    code: &DG
+    city: Olympia
+    state: WA
+    country: USA
+ 
+ 

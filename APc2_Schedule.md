@@ -46,6 +46,7 @@
 	- You should [pull](https://www.git-scm.com/docs/git-pull) first!
 	- Your individual work will go into your folder.
 	- Submit as a [PR (Pull Request)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+		- [GitKraken How-To](https://youtu.be/2VX1ISk9XH8)
 
 
 ### Markdown ###
@@ -61,6 +62,7 @@
 
 ### YAML ###
 14. ID 05:	[YAML Essentials Hands-On](https://linuxacademy.com/cp/modules/view/id/276?redirect_uri=https://app.linuxacademy.com/search?query=yaml)
+	- [YAML] Video(https://youtu.be/cdLNKUoMc6c)
 15. ID 09:	[YAML Employee Code](https://github.com/cal-sc/2019-2020/blob/master/contributors/Contributer_Codes.yml)
 	- Submit as a [PR (Pull Request)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 

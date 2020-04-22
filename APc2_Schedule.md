@@ -72,7 +72,7 @@
 17. ID 10:	DataCamp: Shell Tutorial: [Downloading data using Wget](https://youtu.be/0_DPvrNJwpE)
 18. ID 11:	DataCamp: Shell Tutorial: [Advanced downloading using Wget](https://youtu.be/jY6wRy4s9R8)
 19. ID 24:	[Zoom Data Science Session](https://evergreen.zoom.us/j/9670119923)
-	- TBD
+	- 2020-04-22 2nd Zoom Session 
 20. ID 13:	[COVID-19 Get](https://github.com/cal-sc/2019-2020/blob/master/data/SARS-CoV-2--COVID-19_DataSources.md) Data Scripted
 21. ID 14:	Update COVID-19 Aggregated Datasets in [remote repo](https://github.com/cal-sc/2019-2020/tree/master/data)
 	- Submit as a [PR (Pull Request)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)

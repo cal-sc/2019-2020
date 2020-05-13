@@ -5,7 +5,7 @@ Binds to Ace 2, Ace inhibitors are effective, Ace 2 decreased expression of p22p
 Oxidative stress is causing substantial amount of deaths. </span>
 
 # Update 62 Notes
-##Pepcid
+## Pepcid
 <span style="color:blue"> Not conclusive because confidence interval not high enough, Repurposing drugs for Covid 19, Fits into enzyme,
 Many drugs fit in the enzyme, Dose of pepcid is 9x used in study and injected intravenously, Affects feet  </span>
 
